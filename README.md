@@ -23,6 +23,6 @@
 
 ## Screenshots
 
-<img src="https://github.com/Spidy20/Streamlit_Bank_Loan_Prediction/blob/master/sc1.png">
-<img src="https://github.com/Spidy20/Streamlit_Bank_Loan_Prediction/blob/master/sc2.png">
-<img src="https://github.com/Spidy20/Streamlit_Bank_Loan_Prediction/blob/master/sc3.png">
+<img src="https://github.com/adiark/Bank-Loan-Prediction/blob/main/S1.png">
+<img src="https://github.com/adiark/Bank-Loan-Prediction/blob/main/S2.png">
+<img src="https://github.com/adiark/Bank-Loan-Prediction/blob/main/Model_accuracy.jpg">
